@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppName</string>
+    <string name="button_calculate_label">CALCULATE PRIZE</string>
+    <string name="button_games_label">Games</string>
+    <string name="send_to">Choose one:</string>
+    <string name="rate_dialog_title">Rate Dialog</string>
+    <string name="rate_dialog_message">Do you really want to rate the app?</string>
+    <string name="view_yes">Rate</string>
+    <string name="view_no">No</string>
+    <string name="number_of_spins">Number of spins</string>
+    <string name="past_calculation">Past Calculation</string>
+</resources>
